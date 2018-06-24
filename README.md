@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*  Site room App Ruby on rails
+
+* josegpe7hdez@gmail.com
